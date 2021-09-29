@@ -8,4 +8,5 @@ In this code we can find the grades of a student depending on his marks.
    >= 7.0 C
    >= 6.0 D
    < 6.0 F
+   <br>
 If the user enters a value out of range, print a suitable error message and exit.
