@@ -15,4 +15,5 @@ If the user enters a value out of range, print a suitable error message and exit
 <br>
 
 ![image](https://user-images.githubusercontent.com/88791643/135204865-f3e3050d-69d1-4290-8f15-5e93eb1d2189.png)
+<br>
 ![image](https://user-images.githubusercontent.com/88791643/135205001-82196811-2f4e-4f4f-90cc-d16df35e04f7.png)
