@@ -10,3 +10,6 @@ In this code we can find the grades of a student depending on his marks.
  " < 6.0 F "<br>
    <br>
 If the user enters a value out of range, print a suitable error message and exit.
+
+<b>Output </b>
+![image](https://user-images.githubusercontent.com/88791643/135204865-f3e3050d-69d1-4290-8f15-5e93eb1d2189.png)
